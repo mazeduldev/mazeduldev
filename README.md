@@ -9,9 +9,9 @@ I build meaningful, scalable, and elegant software solutions — from the fronte
 ### 🚀 About Me
 
 - 🔭 Currently building and experimenting with **RAG-based AI chatbots** and **Agentic-AI**
-- 💼 7+ years of experience in full-stack software development
-- 🛠️ Tech stack: React, React Native, Node.js, Spring Boot, MongoDB, PostgreSQL, AWS, Azure, Docker
-- 🔍 Exploring: LLMs, prompt engineering, agent frameworks, MLOps
+- 💼 9+ years of experience in full-stack software development
+- 🛠️ Tech stack: React, Node.js, Spring Boot, MongoDB, PostgreSQL, AWS, Azure, Docker
+- 🔍 Exploring: LLMs, AI Engineering, agent frameworks, MLOps
 - 🎯 Passionate about open source, performance, and developer experience
 
 ---
@@ -43,13 +43,9 @@ I build meaningful, scalable, and elegant software solutions — from the fronte
 
 ### 📊 GitHub Stats & Activity
 
-![Mazedul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazeduldev&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazeduldev&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazeduldev&theme=radical)
-
-![Mazedul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazeduldev&theme=react-dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mazeduldev&color=blue)
 
