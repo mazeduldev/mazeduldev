@@ -8,6 +8,8 @@ I build meaningful, scalable, and elegant software solutions — from the fronte
 
 ### 🚀 About Me
 
+<a href="https://www.toptal.com/developers/resume/mohammad-mazedul-islam#zV8pp0"><img align="right" width="150" src="assets/toptal-badge.svg" alt="Top 3% Talent - Vetted by Toptal - Hire me" /></a>
+
 - 🔭 Currently building and experimenting with **RAG-based AI chatbots** and **Agentic-AI**
 - 💼 9+ years of experience in full-stack software development
 - 🛠️ Tech stack: React, Node.js, Spring Boot, MongoDB, PostgreSQL, AWS, Azure, Docker
