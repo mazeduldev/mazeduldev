@@ -45,8 +45,6 @@ I build meaningful, scalable, and elegant software solutions — from the fronte
 
 ### 📊 GitHub Stats & Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazeduldev&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazeduldev&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mazeduldev&color=blue)
